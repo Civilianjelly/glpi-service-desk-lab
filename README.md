@@ -1,5 +1,8 @@
 # IT Service Desk Lab (GLPI on Ubuntu Server)
 
+This is a continuation of my [Windows Server 2022](https://github.com/Civilianjelly/windows-server-ad-lab) home lab where I add a ticketing system.
+
+
 **Setup:**
 - Hypervisor: VirtualBox 7.2
 - Server: Ubuntu Server 26.04 (3 GB RAM)
